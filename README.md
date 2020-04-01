@@ -4,6 +4,7 @@
 Quan tu vas ella torna
 #  p2
 Text extruit amb forma dona
+[xaloc](p2.gif)
 
 ##  p3
 Text extruit amb rotació
