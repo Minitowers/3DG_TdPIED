@@ -18,7 +18,8 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle
 Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.
 
 ## p7
-(p7.gif)
+(https://github.com/Minitowers/3DG_TdPIED/blob/master/p7.gif)
+
 
 ## p8
 
