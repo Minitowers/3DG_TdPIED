@@ -11,7 +11,8 @@ Text extruit amb forma dona
 Text extruit amb rotació
 
 ## p4
-Text amb rotació ["volta"](p3.gif)
+Text amb rotació 
+["volta"](p3.gif)
 
 ## p5 
 Aplicació de textures en cares diferents del cub. Rotació i bucle
