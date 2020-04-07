@@ -1,7 +1,8 @@
 # 3DG_TdPIED
 
 #  p1
-Quan tu vas ella torna(p1.gif)
+Quan tu vas ella torna
+
 #  p2
 Text extruit amb forma dona
 [''xaloc''](p2.gif)
