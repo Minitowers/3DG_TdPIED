@@ -1,7 +1,7 @@
 # 3DG_TdPIED
 
-#  p1
-Quan tu vas ella torna
+## p1
+[Quan tu vas ella torna](p1.gif)
 
 #  p2
 Text extruit amb forma dona
