@@ -15,7 +15,7 @@ Text amb rotació
 ["volta"](p3.gif)
 
 ## p5 
-Aplicació de textures en cares diferents del cub. Rotació i bucle
+Aplicació de textures en cares diferents del cub. Rotació i bucle.["No és no"](p5.gif),["mòdul"](modulp5.gif)
 
 ## p6
 Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.
