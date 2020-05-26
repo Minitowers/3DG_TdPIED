@@ -12,7 +12,7 @@ Text extruit amb rotació
 ["volta"](p3.gif)
 
 ## p4
-Full de Paper
+["Full de paper"](p4.gif)
 
 
 ## p5 
