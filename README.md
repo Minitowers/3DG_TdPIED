@@ -9,10 +9,11 @@ Text extruit amb forma dona
 
 ##  p3
 Text extruit amb rotació
+["volta"](p3.gif)
 
 ## p4
-Text amb rotació 
-["volta"](p3.gif)
+Full de Paper
+
 
 ## p5 
 Aplicació de textures en cares diferents del cub. Rotació i bucle.["No és no"](p5.gif),["mòdul"](modulp5.gif)
@@ -29,4 +30,12 @@ Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019
     
 
 ## p9
+
+## p10
+Bodegó
+
+## p11
+Montruet 
+
+
 
