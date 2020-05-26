@@ -30,10 +30,10 @@ Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019
     
 
 ## p9
-[Ordinador](p9.png)
+[Ordinador]
 
 ## p10
-[Bodegó](p10.png)
+[Bodegó]
 
 ## p11
 Monstruet 
