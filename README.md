@@ -36,7 +36,7 @@ Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019
 [Bodegó](p10.png)
 
 ## p11
-Monstruet 
 
+[Intent de pollet](p11.png)
 
 
